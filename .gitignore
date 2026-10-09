@@ -1,0 +1,6 @@
+# Dataset mentah (terlalu besar untuk GitHub, unduh dari Kaggle)
+data/*.csv
+
+# Python
+__pycache__/
+*.pyc
